@@ -1,0 +1,3 @@
+Linear regression : Validation R²: 0.5229055735873243
+
+Random Forest R²: 0.8458599976554803
